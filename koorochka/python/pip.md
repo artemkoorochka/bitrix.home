@@ -1,0 +1,1 @@
+**Excell:** `pip install xlrd`
